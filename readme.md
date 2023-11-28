@@ -7,13 +7,10 @@ Place where the work will be performed:
 - Name of the Department/Institute:  Department of Computer Science and Engineering
 
 # Terms & Conditions:
-i. The project shall be financed by Upazilla Fisheries Office, Gazipur Sadar, Gazipur.
-ii. Project implementation period will be minimum 2 weeks after the confirmation of budget.
-iii. In case of any kind of demonstration/reporting of the project, the Researchers and Research 
-Assistants name along with their affiliation should be included.
-iv. In future, for any kind of extension or real implementation of the work along with Funding 
-Opportunity both from Government or Private Sector, the affiliated Researchers should 
-informed in advance.
+- i. The project shall be financed by Upazilla Fisheries Office, Gazipur Sadar, Gazipur.
+- ii. Project implementation period will be minimum 2 weeks after the confirmation of budget.
+- iii. In case of any kind of demonstration/reporting of the project, the Researchers and Research Assistants name along with their affiliation should be included.
+- iv. In future, for any kind of extension or real implementation of the work along with Funding Opportunity both from Government or Private Sector, the affiliated Researchers should informed in advance.
 
 ## Cost of materials and accessories to support research:
 
