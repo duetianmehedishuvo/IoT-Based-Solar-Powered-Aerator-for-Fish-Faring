@@ -1,8 +1,5 @@
-# IoT-Based-Solar-Powered-Aerator-for-Fish-Faring
-
-Title of the Project: IoT-based Solar Powered Aerator for Fish Farming
-Field of Research: Internet of Things (IoT) and Smart Agriculture System 
-Place where the work will be performed:
+### Title of the Project: IoT-based Solar Powered Aerator for Fish Farming
+##### Field of Research: Internet of Things (IoT) and Smart Agriculture System Place where the work will be performed:
 - Name of the University/Organization:  Dhaka University of Engineering & Technology, Gazipur
 - Name of the Department/Institute:  Department of Computer Science and Engineering
 
